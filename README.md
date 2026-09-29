@@ -1,4 +1,4 @@
-# Donation Data Cleaning Project
+ Data Cleaning Project
 
 ## Problem
 Raw  file had 6 rows with 1 duplicate, missing values, and invalid amounts.
